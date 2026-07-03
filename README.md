@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0055FF&center=true&vCenter=true&width=500&lines=hey%2C+I'm+Hazri+Halimi+Izhar+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+JSP+%7C+Back-End+Dev;always+building+something." alt="Typing SVG" />
 </p>
 
-
-# Hi there 👋 I'm **Hazri Halimi Izhar**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀"/>
-
 <p>
 
 ![](https://komarev.com/ghpvc/?username=HazriHalimi&style=for-the-badge&color=0e75b6)
