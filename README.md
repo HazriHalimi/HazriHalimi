@@ -126,16 +126,6 @@ A web-based flood monitoring and early warning system developed using **Java JSP
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HazriHalimi&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 - 🌱 Spring Boot
