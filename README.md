@@ -1,48 +1,55 @@
 <div align="center">
 
-# Hi there 👋 I'm Hazri Halimi Izhar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hazri%20Halimi%20Izhar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Backend%20Developer%20|%20Software%20Engineer%20Enthusiast&descAlignY=58"/>
 
-### 💻 Computer Science Student | Java Backend Developer | Software Engineer Enthusiast
+# Hi there 👋 I'm **Hazri Halimi Izhar**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student+at+UMT;Java+%7C+JSP%2FServlet+%7C+MySQL;Building+Web+Applications;Always+Learning+New+Technologies+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Backend+Developer;Java+%7C+Spring+Boot+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀"/>
 
-![](https://komarev.com/ghpvc/?username=HazriHalimi\&color=0e75b6\&style=flat)
+<p>
+
+![](https://komarev.com/ghpvc/?username=HazriHalimi&style=for-the-badge&color=0e75b6)
+![](https://img.shields.io/github/followers/HazriHalimi?style=for-the-badge)
+![](https://img.shields.io/github/stars/HazriHalimi?affiliations=OWNER&style=for-the-badge)
+
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
+
+```java
+public class HazriHalimi {
+
+    String university = "Universiti Malaysia Terengganu";
+    String degree = "Bachelor of Computer Science (Maritime Informatics)";
+
+    String[] interests = {
+        "Backend Development",
+        "Software Engineering",
+        "Database Design",
+        "Web Development"
+    };
+
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "REST API",
+        "Docker",
+        "Software Architecture"
+    };
+
+}
+```
 
 🎓 Bachelor of Computer Science (Maritime Informatics)
 
 🏫 Universiti Malaysia Terengganu (UMT)
 
-💡 Passionate about developing scalable web applications and solving real-world problems.
+💡 Passionate about building scalable web applications and solving real-world problems using Java technologies.
 
-🌱 Currently learning
-
-* Spring Boot
-* REST API
-* Docker
-* Backend Development
-* Software Architecture
-
-🔭 Current Project
-
-### 🌊 HydroAlert Flood Management System
-
-A Java-based web application that helps monitor river water levels, rainfall data, and flood risks through an interactive dashboard.
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,php,javascript,html,css,bootstrap,mysql,docker,git,github,vscode"/>
-
-</p>
+🚀 Currently looking for internship opportunities in Software Engineering / Backend Development.
 
 ---
 
@@ -50,37 +57,64 @@ A Java-based web application that helps monitor river water levels, rainfall dat
 
 ## 🌊 HydroAlert Flood Management System
 
-### Features
+A web-based flood monitoring and early warning system developed using **Java JSP/Servlet** and **MySQL**.
 
-* 🌧 Rainfall Monitoring
-* 🌊 River Water Level Monitoring
-* 📊 Flood Risk Analysis
-* 🔔 Alert Notification
-* 👥 Role-Based Login
-* 📍 Station Management
-* 📈 Historical Data Dashboard
+### ✨ Features
 
-**Tech Used**
+- 🌧 Rainfall Monitoring
+- 🌊 River Water Level Monitoring
+- 📊 Flood Risk Analysis
+- 📍 Station Management
+- 📈 Historical Data Dashboard
+- 🔔 Alert Notification
+- 👥 Role-Based Authentication
+- 📱 Responsive User Interface
 
-Java • JSP • Servlet • MySQL • Bootstrap • HTML • CSS • JavaScript • Apache Tomcat
+### 🛠 Tech Used
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,bootstrap,git,github"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 💻 Tech Stack
 
-<p align="center">
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=HazriHalimi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazriHalimi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=HazriHalimi&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
@@ -88,7 +122,7 @@ Java • JSP • Servlet • MySQL • Bootstrap • HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HazriHalimi&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HazriHalimi&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -96,23 +130,43 @@ Java • JSP • Servlet • MySQL • Bootstrap • HTML • CSS • JavaScript
 
 # 🏆 GitHub Trophy
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HazriHalimi&theme=algolia&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HazriHalimi&theme=algolia&no-frame=true&column=4"/>
 
-</p>
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- 🌱 Spring Boot
+- 🌱 REST API
+- 🌱 Docker
+- 🌱 Software Architecture
+- 🌱 Backend Development
+
+---
+
+# 🎯 Goals 2026
+
+- ✅ Complete Industrial Internship
+- 🚀 Master Spring Boot
+- ☁ Learn Cloud Deployment
+- 🐳 Improve Docker Skills
+- 📚 Build More Open Source Projects
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/HazriHalimi">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/hazzrieyhalimiey">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -120,13 +174,27 @@ Java • JSP • Servlet • MySQL • Bootstrap • HTML • CSS • JavaScript
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-## 💡 Quote
+# 💬 Dev Quote
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HazriHalimi/HazriHalimi/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
@@ -134,6 +202,8 @@ Java • JSP • Servlet • MySQL • Bootstrap • HTML • CSS • JavaScript
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my projects, feel free to ⭐ them and connect with me!
+*"Code. Learn. Improve. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 
 </div>
