@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hazri%20Halimi%20Izhar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Backend%20Developer%20|%20Software%20Engineer%20Enthusiast&descAlignY=58"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0055FF&center=true&vCenter=true&width=500&lines=hey%2C+I'm+Hazri+Halimi+Izhar+%F0%9F%91%8B;Computer+Science+Student;Java+%7C+JSP+%7C+Back-End+Dev;always+building+something." alt="Typing SVG" />
+</p>
+
 
 # Hi there 👋 I'm **Hazri Halimi Izhar**
 
